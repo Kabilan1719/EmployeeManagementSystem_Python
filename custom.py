@@ -1,0 +1,6 @@
+color_1 = "slateblue1"
+color_2 = "mint cream"
+color_3 = "black"
+color_4 = "white"
+font_1 = "times new roman"
+font_2 = "Microsoft YaHei UI Light"
